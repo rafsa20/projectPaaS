@@ -43,6 +43,8 @@ user-manager/
 ### 1. Siapkan Database di Railway
 1. Login ke [https://railway.app](https://railway.app)
 <img width="552" height="228" alt="image" src="https://github.com/user-attachments/assets/cdbda941-96f2-4dc6-926e-b759046abc11" />
+
+
 2. Buat project baru → pilih **Provision PostgreSQL**
 3. Setelah database aktif, klik **Connect**
 4. Salin **Database URL**, contohnya:
